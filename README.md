@@ -1,7 +1,7 @@
 # Enterprise Student Record & Academic Management Platform (`SU_DevOps`)
 
-**Project Lead:** Shivraj Dhumal  
-**PRN:** 2125UMLM1008  
+**Project Lead:** Yash Bhavsar  
+**PRN:** 2125UMLM1007  
 **Academic Institution:** Sandip University  
 **Curriculum:** DevOps & Cloud Engineering Series  
 
